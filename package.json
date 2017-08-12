@@ -1,0 +1,8 @@
+{
+  "name": "mahdi-ml-demo",
+  "version": "1.0.0",
+  "description": "Sample codes and slides for my DDD Melbourne talk",
+  "main": "index.js",
+  "author": "Mahdi Hasheminejad",
+  "license": "ISC"
+}
